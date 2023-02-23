@@ -5,6 +5,7 @@ public class Magza {
         System.out.println("v1");
         System.out.println("v2");
         System.out.println("v3");
+        System.out.println("v4");
 
     }
 }
